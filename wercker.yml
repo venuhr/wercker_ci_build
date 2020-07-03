@@ -2,7 +2,7 @@ box:
  id: node
 # Build definition
 build:
-  # The steps that will be executed on build
+  # Feature check , The steps that will be executed on build
   steps:
     - script:
         code: |
